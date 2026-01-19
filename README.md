@@ -12,7 +12,6 @@ transitioning from designing responsive HR modules to architecting the underlyin
 - Database: MySQL (Relational Database Management) 
 - Tools: MySQL Workbench, Postman
   
-<img width="600" height="500" alt="back_1" src="https://github.com/user-attachments/assets/7184f207-8169-4856-b04a-2e34fdbef082" /> <img width="1000" height="600" alt="back_2" src="https://github.com/user-attachments/assets/6618402a-11a1-43f7-bdc1-39427c26e04d" />
 
 ## 📊 Database Architecture (ERD)
 To ensure data integrity and scalability—key requirements for enterprise HR systems—I designed a normalized relational schema:
@@ -24,7 +23,5 @@ Data Integrity: Implemented constraints to ensure unique emails and mandatory fi
 ## 🔌 API Documentation
 The backend provides RESTful endpoints to interact with the HR data:
 
-Method,Endpoint,Description
-GET,/api/employees,Fetches all employees with their department names using SQL JOINs.
-POST,/api/employees,Adds a new employee to the database with server-side validation.
+
 
