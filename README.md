@@ -12,5 +12,3 @@ transitioning from designing responsive HR modules to architecting the underlyin
 - Database: MySQL (Relational Database Management) 
 - Tools: MySQL Workbench, Postman
   
-<img width="358" height="295" alt="EER Diagram" src="https://github.com/user-attachments/assets/f72be6a4-4a90-4e0f-a20c-b8f386516d8c" />
-<img width="1358" height="848" alt="Postman" src="https://github.com/user-attachments/assets/335ad6d0-eeeb-4cef-80a7-c4dc91ae5e63" />
